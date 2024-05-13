@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-nextjs-venerability-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint plugin to check for vulnerabilities in the nextjs project.",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
   ],
   "author": "alas1n",
   "license": "MIT",
+  "homepage": "https://github.com/alas1n/eslint-plugin-nextjs-venerability-checker#readme",
   "dependencies": {
     "eslint": "^9.2.0"
   }
